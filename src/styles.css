@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background: #e8d8c5;
+  height: 100%;
+  width: 100vw;
+  min-height: 100vh;
+}
+p {
+  padding: 2% 5% 0;
+}
+h1 {
+  font-family: "Merienda";
+  font-size: 3rem;
+  margin-top: 0;
+  padding-top: 5%;
+  background: -webkit-linear-gradient(left, #fcc314, #cf001a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+body {
+  margin: 0;
+}
+input,
+button {
+  height: 30px;
+  width: 125px;
+  margin: 0 2%;
+  border-radius: 5px;
+}
+div {
+  border: 2px solid brown;
+  margin: 5%;
+  height: 50vh;
+  overflow: scroll;
+  text-align: left;
+}

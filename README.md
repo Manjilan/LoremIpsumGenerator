@@ -1,2 +1,0 @@
-# LoremIpsumGenertor
-Created with CodeSandbox
